@@ -100,6 +100,7 @@
     <Compile Include="clases\facturacion\ImpresoraFiscal.cs" />
     <Compile Include="clases\facturacion\ImpresoraFiscalPNPDLL.cs" />
     <Compile Include="clases\facturacion\SENIAT\clases\DascomFiscalPrinter.cs" />
+    <Compile Include="clases\facturacion\SENIAT\clases\DascomTallyPrinter.cs" />
     <Compile Include="clases\facturacion\SENIAT\clases\Factura.cs" />
     <Compile Include="clases\facturacion\SENIAT\clases\FiscalOperations.cs" />
     <Compile Include="clases\facturacion\SENIAT\clases\FiscalPrinter.cs" />
