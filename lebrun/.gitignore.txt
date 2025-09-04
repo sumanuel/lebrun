@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+*.swp
+*_ReSharper.*
+*.nupkg
+
+# Otros
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+*.suo
+
+# Paquetes NuGet
+packages/
+**/packages/*
