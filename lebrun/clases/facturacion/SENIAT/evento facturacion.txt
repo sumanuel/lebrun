@@ -1,0 +1,8 @@
+ 
+ Ruta archivo: 
+ 
+ formularios/frmFactura.cs
+ 
+ Evento:
+ 
+ private void cmdConfirmar_Click(object sender, EventArgs e)
